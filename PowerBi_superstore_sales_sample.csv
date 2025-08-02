@@ -1,0 +1,11 @@
+order_id,order_date,category,sub_category,region,city,state,customer_name,sales,quantity,profit
+CA-2021-100001,2021-01-15,Furniture,Chairs,East,Kolkata,West Bengal,Ananya Sharma,320.0,2,64.0
+CA-2021-100002,2021-01-30,Technology,Phones,North,Delhi,Delhi,Arjun Mehta,950.0,1,90.0
+CA-2021-100003,2021-02-12,Office Supplies,Binders,West,Mumbai,Maharashtra,Sara Ali,185.0,5,15.0
+CA-2021-100004,2021-02-25,Furniture,Tables,South,Bengaluru,Karnataka,Nikhil Raj,700.0,1,-80.0
+CA-2021-100005,2021-03-10,Technology,Laptops,West,Pune,Maharashtra,Priya Sen,1200.0,1,210.0
+CA-2021-100006,2021-03-14,Office Supplies,Paper,East,Patna,Bihar,Amitava Bose,40.0,4,5.0
+CA-2021-100007,2021-04-05,Furniture,Furnishings,South,Chennai,Tamil Nadu,Sunita Reddy,275.0,2,40.0
+CA-2021-100008,2021-04-19,Technology,Accessories,East,Kolkata,West Bengal,Manish Basu,65.0,3,10.0
+CA-2021-100009,2021-05-03,Office Supplies,Art,North,Gurgaon,Haryana,Tanya Verma,85.0,2,6.0
+CA-2021-100010,2021-05-22,Furniture,Bookcases,West,Mumbai,Maharashtra,Neha Iyer,530.0,1,70.0
